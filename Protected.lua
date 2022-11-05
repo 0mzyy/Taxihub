@@ -1,7 +1,7 @@
 -- IF THIS IS LEAKED PLEASE  DO REPORT IT TO 0MZYY#1161 AS SOON AS POSSIBLE. 
 -- ANY STAFF OR MEMBERS THAT LEAK THE INSIDE OF OUR SCRIPTS WILL BE BANNED AND BLACKLISTED.
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "TaxiHub | Taxi Boss", HidePremium = true, IntroText = "Idk what to put here lol", SaveConfig = true, ConfigFolder = "TaxiHub"})
+local Window = OrionLib:MakeWindow({Name = "TaxiHub | Taxi Boss", HidePremium = true, IntroText = "V1.5", SaveConfig = true, ConfigFolder = "TaxiHub"})
 OrionLib:MakeNotification({
 	Name = "Welcome to TaxiHub",
 	Content = "If you are new to taxiHub make sure to not abuse the powers! Any bans will not be our fault! Have a good stay",
